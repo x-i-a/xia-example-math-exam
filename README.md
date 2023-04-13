@@ -1,7 +1,6 @@
 # X-I-A Mathematical Exam Website
 
-This is a website that generates printable PDFs for mathematical exams. The website is built using Python, Flask, and LaTeX.
-
+This is a website that generates printable PDFs for mathematical exams to demonstrate a full static frontend combine with API backend
 
 
 ## Usage
