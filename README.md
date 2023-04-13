@@ -6,13 +6,9 @@ This is a website that generates printable PDFs for mathematical exams. The webs
 
 ## Usage
 
-[Demo web site](https://example-math-exam.x-i-a.io/srv/)
+To use the website, simply navigate to https://example-math-exam.x-i-a.io/srv/ and select an exam to print.
 
-1. Enter the exam details, such as the course name and exam title, on the home page.
-2. Enter the number of questions and the maximum number of points for each question.
-3. Enter the questions and their solutions.
-4. Click the "Generate PDF" button.
-5. Open the generated PDF in your web browser or save it to your device.
+There are currently two exams available: "Mathematical Exam for CM1" and "Mathematical Exam for CP". The CM1 exam is visible only to paid users, while the CP exam is visible to all users.
 
 ## Contributing
 
